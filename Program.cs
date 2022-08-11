@@ -6,7 +6,6 @@ namespace BatchAppWithFfmpegProcess
 {
     internal class Program
     {
-
         static void Main(string[] args)
         {
 
@@ -61,6 +60,5 @@ namespace BatchAppWithFfmpegProcess
                 Console.WriteLine("File was not created.");
             }
         }
-
     }
 }
